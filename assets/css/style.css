@@ -702,7 +702,6 @@ button, a { transition: var(--transition); }
   height: 16.99px;
   margin-right: 10px;
   margin-top: 10px;
-  float: right;
 }
 
 .card-header-slanted-edge {
