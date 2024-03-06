@@ -654,7 +654,7 @@ button, a { transition: var(--transition); }
   #BLOG
 \*-----------------------------------*/
 .card {
-  width: 76em;
+  width: 85em;
   height: 22.5em;
   background: #2593B6;
   transition: 1s ease-in-out;
@@ -1057,7 +1057,7 @@ button, a { transition: var(--transition); }
 
 
   .card {
-    width: 76em;
+    width: 79em;
     height: 22.5em;
     background: #2593B6;
     transition: 1s ease-in-out;
